@@ -92,6 +92,6 @@ Built an interactive multi-page dashboard featuring:
 - Developed an executive-ready Power BI dashboard for decision-making.
 - Enabled interactive exploration of sales and customer trends.
 
-# Author
+## Author
 
 * Vrijesh S. Balam
